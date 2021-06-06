@@ -1,0 +1,45 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# your projects
+projects:
+- name: Yatter
+  logo: /images/sections/projects/yatter.png
+  role: Owner, Contributor
+  timeline: "Sep 2020 - Oct 2020"
+  repo: https://github.com/jayesh-srivastava/Yatter-android # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: A simple group chatting android application developed with Firebase.
+  tags: ['a']
+
+- name: QuakeReport
+  logo: /images/sections/projects/quake.png
+  role: Owner, Contributor
+  timeline: "Jul 2020 - Jul 2020"
+  repo: https://github.com/jayesh-srivastava/QuakeReport-android
+  #url: ""
+  summary: An android application which provides us data about the latest 50 earthquakes in the world having a magnitude of 3.5 and above using the earthquake API of the USGS website.
+  tags: ['a']
+
+- name: Scorer
+  logo: /images/sections/projects/scorer.png
+  role: Owner, Contributor
+  timeline: "May 2020 - May 2020"
+  repo: https://github.com/jayesh-srivastava/Scorer-android
+  summary: A simple android application which lets you maintain a scoreline in realtime.
+
+- name: Miwok
+  logo: /images/sections/projects/miwok.png
+  role: Owner, Contributor
+  timeline: "Jun 2020 - Jun 2020"
+  repo: https://github.com/jayesh-srivastava/Miwok-android
+  summary: An android application which helps you learn miwok language with the help of translations, images and pronunciations.
+  tags: ['a']
