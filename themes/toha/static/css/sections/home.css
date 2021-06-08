@@ -43,7 +43,7 @@
   background-color: #e7e7ef;
   padding: 5px;
   margin-bottom: 10px;
-  image-rendering:optimizeQuality;
+  image-rendering:crisp-edges;
 }
 
 .home .greeting {
