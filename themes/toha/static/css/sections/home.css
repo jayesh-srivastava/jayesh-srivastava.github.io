@@ -43,16 +43,18 @@
   background-color: #e7e7ef;
   padding: 5px;
   margin-bottom: 10px
+
   ;
 }
 
 .home .greeting {
-  color: #f9fafc;
+  color:#3c4858;
+
 }
 
 .home .typing-carousel {
   font-size: 14pt;
-  color: #f0f0f0;
+  color: #3c4858;
 }
 
 #typing-carousel-data {
@@ -61,7 +63,7 @@
 
 .arrow {
   position: absolute;
-  color: #f9fafc;
+  color: #3c4858;
   font-size: 1.5rem;
   bottom: 0;
 }
