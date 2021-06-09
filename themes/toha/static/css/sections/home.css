@@ -42,8 +42,8 @@
   height: 250px;
   background-color: #e7e7ef;
   padding: 5px;
-  margin-bottom: 10px;
-  image-rendering:crisp-edges;
+  margin-bottom: 10px
+  ;
 }
 
 .home .greeting {
