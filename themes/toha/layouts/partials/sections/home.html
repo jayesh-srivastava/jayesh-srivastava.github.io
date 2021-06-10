@@ -105,10 +105,8 @@
     class="background container-fluid"
   ></div>
   <div class="container content text-center">
-    <img src="{{ $authorImage.RelPermalink }}"
+    <img style="max-width: 100%; width: auto; height: auto;" src="{{ $authorImage.RelPermalink }}"
       class="rounded-circle"
-      width="250px"
-      height="250px"
       alt="Author Image"
     />
     <h1 class="greeting"> {{ $author.greeting }} {{ $name }}</h1>
